@@ -18,6 +18,7 @@ tr, td{
     border: 1px solid black;
     text-align: center;
     border-radius: 5%;
+    cursor: pointer;
 }
 .erase {
     empty-cells: hide;
@@ -350,16 +351,19 @@ tr, td{
     position: absolute;
     left: 10%;
     bottom: -50%;
+    background: none;
 }
 .elementgroup .column2{
     position: absolute;
     left: 35%;
     bottom: -41%;
+    background: none;
 }
 .elementgroup .column3{
     position: absolute;
     left: 70%;
     bottom: -41%;
+    background: none;
 }
 .alkali {
     color: rgb(0, 184, 197);

@@ -338,3 +338,51 @@ tr, td{
     transition: .6s;
     box-shadow: 0 0 15px #9E6615, 0 0 15px #9E6615, 0 0 15px #9E6615;
 }
+/* Group of Elements */
+.elementgroup h3{
+    font-size: 260%;
+    letter-spacing: 2px;
+    font-family: monospace;
+}
+.elementgroup .column1{
+    position: absolute;
+    left: 10%;
+}
+.elementgroup .column2{
+    position: absolute;
+    left: 35%;
+}
+.elementgroup .column3{
+    position: absolute;
+    left: 70%;
+}
+.alkali {
+    color: rgb(0, 184, 197);
+}
+.metalloids{
+    color: rgb(158,102,21);
+}
+.aactinides{
+    color: rgb(203,64,7);
+}
+.llanthanides{
+    color: rgb(25,72,102);
+}
+.alkaline{
+    color: rgb(248, 56, 72);
+}
+.reactive{
+    color: rgb(0, 132, 255);
+}
+.unknownn{
+    color: rgb(92,97,128);
+}
+.transition{
+    color: rgb(103,78,238);
+}
+.noble{
+    color: rgb(255, 99, 172);
+}
+.post{
+    color: rgb(11,62,28);
+}

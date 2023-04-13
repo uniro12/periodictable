@@ -347,14 +347,17 @@ tr, td{
 .elementgroup .column1{
     position: absolute;
     left: 10%;
+    bottom: -45%;
 }
 .elementgroup .column2{
     position: absolute;
     left: 35%;
+    bottom: -36%;
 }
 .elementgroup .column3{
     position: absolute;
     left: 70%;
+    bottom: -36%;
 }
 .alkali {
     color: rgb(0, 184, 197);

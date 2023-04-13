@@ -7,10 +7,12 @@ table {
 }
 h1 {
     position: absolute;
-    font-size: 500%;
+    width: 100%;
     font-weight: bolder;
-    top: 2%;
-    right: 10%;
+    font-size: 400%;
+    text-align: center;
+    top: 10%;
+    background: none;
 }
 tr, td{
     border: 1px solid black;
